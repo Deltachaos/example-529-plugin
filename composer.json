@@ -1,0 +1,17 @@
+{
+  "name": "deltachaos/example-529-plugin",
+  "description": "",
+  "type": "composer-plugin",
+  "require": {
+    "composer-plugin-api": "^1.1",
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Deltachaos\\Example529": "src"
+    }
+  },
+  "extra": {
+    "class": "Deltachaos\\Example529\\Plugin"
+  }
+}
