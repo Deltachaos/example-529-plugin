@@ -8,7 +8,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Deltachaos\\Example529": "src"
+      "Deltachaos\\Example529\\": "src"
     }
   },
   "extra": {
